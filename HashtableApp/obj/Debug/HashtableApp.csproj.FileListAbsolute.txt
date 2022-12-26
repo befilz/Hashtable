@@ -1,0 +1,16 @@
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe.config
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.pdb
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.AssemblyReference.cache
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\MainWindow.g.cs
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\App.g.cs
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.cache
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.lref
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\MainWindow.baml
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.g.resources
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.Properties.Resources.resources
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.GenerateResource.cache
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.CoreCompileInputs.cache
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.exe
+C:\Users\Fewz_kitnarong\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.pdb
